@@ -1,3 +1,3 @@
 # titanic
 
-!()[https://raw.githubusercontent.com/gradio-app/hub-titanic/master/thumbnail.png]
+![](https://raw.githubusercontent.com/gradio-app/hub-titanic/master/thumbnail.png)
